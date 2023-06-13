@@ -1,0 +1,72 @@
+#fan{
+  display: block;
+  height: 50px;
+  width: 130%;
+  background-color: rgba(255,255,255,0.07);
+  border-radius: 3px;
+  border-color: black;
+  padding: 0 10px;
+  margin-top: 8px;
+  font-size: 14px;
+  font-weight: 300;
+}
+::placeholder{
+    color:grey;
+}
+
+.login-form{
+height: 390px;
+width: 400px;
+background-color: rgba(255,255,255,0.13);
+position: absolute;
+transform: translate(-50%,-50%);
+top: 50%;
+left: 22%;
+border-radius: 10px;
+backdrop-filter:inherit;
+border: 2px solid rgba(255,255,255,0.1);
+box-shadow: 0 0 40px rgba(8,7,16,0.6);
+padding: 50px 35px;
+}
+#sam{
+  margin-top: 10px;
+  width: 190%;
+  background-color: rgb(44, 89, 44);
+  color: #080710;
+  padding: 15px 0;
+  font-size: 18px;
+  font-weight: 600;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.title {
+  text-align: center;
+  width: 20vw;
+  
+  font-size: 2rem;
+  font-family:italic;
+}
+.bgimg{
+  background-image: url("https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2Fa0d508c8-9008-11ec-8038-2fedb801d1cc.jpg?crop=4272%2C2848%2C0%2C0");
+  background-repeat: no-repeat;
+  height: 100vh;
+  width:100%;
+  background-size: cover;
+  background-position: center;
+}
+#mh{
+  background-color:orange;
+}
+#forl{
+  margin-right: 80px;
+
+}
+.abgimg
+{
+  width:100%;
+  height:100vh;
+  background-image: url("C:\Users\2014 8014\agri\src\asserts\login.jpg") ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}

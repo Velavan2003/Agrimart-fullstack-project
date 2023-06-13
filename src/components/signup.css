@@ -1,0 +1,87 @@
+#urg {
+  
+  text-align: absolute;
+  padding-top: 40px;
+  padding-left: 100px;
+  font-style:italic;
+  font-family:'Times New Roman', Times, serif;
+  color: rgb(7, 7, 7);
+  
+
+  
+}
+
+#form{
+  position: absolute;
+  left:40%;
+  padding-top:5px ;
+}
+#sab{
+  height:50px;
+  border: 1px solid rgb(253, 251, 251);
+  border-radius: 10px;
+  width: 67%;
+  padding: 2vw 1vw;
+  outline: none;
+  margin: 5px;
+ 
+}
+#uno{
+  height:50px;
+  border: 1px solid rgb(172, 171, 171);
+  border-radius: 10px;
+  width: 88%;
+  padding: 2vw 1vw;
+  outline: none;
+  margin: 5px;
+}
+#sa{
+  border-radius: 10px;
+  width:21%;
+  height:60px; 
+}
+#ros{
+  margin-left: 50px;
+  height:50px;
+  width:100px;
+  background-color: rgb(108, 110, 108);
+}
+#dab{
+  width:25%;
+}
+.signbg{
+
+
+background-repeat: no-repeat;
+background-image: url("https://t4.ftcdn.net/jpg/05/33/78/51/240_F_533785122_q7DED2hr1bTqY6kezdvlZ0XGvEr8vsSt.jpg");
+height: 100vh;
+overflow: hidden;
+background-size: cover;
+}
+.adminsignbg{
+
+
+background-repeat: no-repeat;
+background-image: url("https://images.pexels.com/photos/237018/pexels-photo-237018.jpeg?cs=srgb&dl=pexels-pixabay-237018.jpg&fm=jpg");
+height: 100vh;
+overflow: hidden;
+background-size: cover;
+}
+#cc
+{
+  color:rgb(44, 43, 43);
+}
+.asignup-container1{
+  position:relative;
+  top:2rem;
+  left:28rem;
+  width: 50rem;
+  height:39rem;
+  
+
+  padding: 40px;
+}
+  #aib{
+    background-color: aliceblue;
+  }
+  
